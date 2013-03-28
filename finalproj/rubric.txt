@@ -1,0 +1,9 @@
+Michael Oduala
+3/20/13
+Fundamentals of Computing 
+
+
+5 pts - create base class, character, for the type of characters that can be spawned in the game
+5 pts - create at least two classes derived classes from the based class using inheritance
+5 pts - make functions to set initial characteristics for the derived classes
+5 pts - read SDL tutorials to understand collision detection for attacking functions
